@@ -1,5 +1,5 @@
 ## ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ
-I'm **<ins>Enzo Bassot</ins>**, also known online by the nicknames <i>Mrzozo</i> and <i>L0R3Z</i>.<br>
+I'm **<ins>Enzo Bassot</ins>**, also known online as <i>Mrzozo</i> and <i>L0R3Z</i>.<br>
 I'm a French creative multimedia engineer, currently studying in Hakodate, Japan!<br>
 <br>
 I love web & game development, cats, listening to music, traveling, learning new stuff and iced matcha lattes. :)<br>
