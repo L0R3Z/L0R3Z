@@ -5,9 +5,6 @@ I'm a French creative multimedia engineer, currently studying in Hakodate, Japan
 I love web & game development, cats, listening to music, traveling, learning new stuff and iced matcha lattes. :)<br>
 I'm also very passionate about the independent web and the resurgence of personal websites!<br>
 Here's mine: [l0r3z.net](https://l0r3z.net/home) (it's an early work in progress!).<br>
-<br>
-***For any professional inquiries***, don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/enzo-bassot-1401691a3/)!<br>
-If you'd like to know more about me, check out my [Bento link](https://bento.me/enzo-bassot) (CV, book and more)!
 
 ### What I know
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
