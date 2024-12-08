@@ -3,7 +3,7 @@ I'm **<ins>Enzo Bassot</ins>**, also known online as <i>Mrzozo</i> and <i>L0R3Z<
 I'm a French creative multimedia engineer, currently studying in Hakodate, Japan!<br>
 <br>
 I love web & game development, cats, listening to music, traveling, learning new stuff and iced matcha lattes. :)<br>
-I'm also very passionate about the independant web and the resurgence of personal websites!<br>
+I'm also very passionate about the independent web and the resurgence of personal websites!<br>
 Here's mine: [l0r3z.net](https://l0r3z.net/home) (it's an early work in progress!).<br>
 <br>
 ***For any professional inquiries***, don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/enzo-bassot-1401691a3/)!<br>
