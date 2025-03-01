@@ -1,6 +1,6 @@
 ## ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ
 I'm **<ins>Enzo</ins>**, also known online as <i>L0R3Z</i> and <i>Mrzozo</i>.<br>
-I'm a French creative multimedia engineer, currently studying in Hakodate, Japan!<br>
+I'm a French creative multimedia engineer and web developer!<br>
 <br>
 I love web & game development, cats, listening to music, traveling, learning new stuff and iced matcha lattes. :)<br>
 I'm also very passionate about the independent web and the resurgence of personal websites!<br>
