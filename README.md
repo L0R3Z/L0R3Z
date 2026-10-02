@@ -27,7 +27,7 @@ Here's mine: [l0r3z.net](https://l0r3z.net/home) (it's an early work in progress
 
 ### What I use
 ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=flat)
-![Windows 11 Badge](https://img.shields.io/badge/Windows%2010-0078D4?logo=windows10&logoColor=fff&style=flat)
+![Mac OS Badge](https://img.shields.io/badge/Mac%20OS-0078D4?logo=windows11&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge&style=flat)
